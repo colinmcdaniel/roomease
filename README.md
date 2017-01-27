@@ -1,5 +1,8 @@
 # room[ease]
 
+* [Deployed Application](https://room-ease.herokuapp.com)
+* [GitHub Repository](https://github.com/colinmcdaniel/roomease)
+
 Room[ease] is a roommate matching web application that helps users find compatible roommates in their area. After signing up, users take a quick compatibility survey about themselves and what they want in a roommate. Upon submitting, users are shown the top matches in their area sorted by compatibility percentage. Users have the option to email their matches in app.
 
 <img width="1280" alt="screen shot 2017-01-11 at 12 03 17 am" src="https://cloud.githubusercontent.com/assets/18673328/21840268/6a044c8a-d791-11e6-89b4-0d833d7f711f.png">
