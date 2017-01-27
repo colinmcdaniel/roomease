@@ -36,8 +36,8 @@ Instead of being based on sameness, the room[ease] matching algorithm takes both
 
 ## Compatibility Example
 
-User 1: Extroverted (herself), Don't Care (for roommate)
-User 2: Introverted, Introverted
+User 1: Extroverted (oneself), Don't Care (roommate preference);
+User 2: Introverted, Introverted;
 User 3: Extroverted, Extroverted
 - User 1 and User 2 would have 50% compatibility. User 1's preferences would be met, but User 2's wouldn't be.
 - User 2 and User 3 would have 0% compatibility. Neither users' preferences would be met.
