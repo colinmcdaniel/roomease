@@ -45,8 +45,16 @@ User 3: Extroverted, Extroverted
 
 <img width="562" alt="screen shot 2017-01-11 at 12 20 16 am" src="https://cloud.githubusercontent.com/assets/18673328/21840724/d732359a-d793-11e6-8095-b133f101df01.png">
 
-## Built With
-Node, Express, MySQL, Sequelize, Handlebars.js, Nodemailer, jQuery, Bootstrap
+## Technologies
+* MySQL
+* Express
+* Handlebars.js
+* Node.js
+* Sequelize
+* Nodemailer
+* jQuery
+* Bootstrap
+* bcrypt
 
 ## Team Members
 - Colin McDaniel - [colinmcdaniel](https://github.com/colinmcdaniel)
